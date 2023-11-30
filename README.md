@@ -5,71 +5,51 @@ Create Perfume Website using CSS Tutorial
 
 CSS - 3 Types they are
 
-    => Inline CSS
-          -Single line using style attribute
+**Inline CSS**
+-Single line using style attribute
          
-          <h1 style="background-color:red;">Apple</h1>
-    
-    => Internal CSS
+**Internal**
+-Using the style tag inside the HTML page
+                
+** External**
+-Create  a seperated file called style.css
 
-          -Using the style tag inside the HTML page
-
-         <html>
-           <head>
-             <title>Internal CSS</title>
-              <style>
-                h1{
-                  color:white;
-                  background-color:black;
-                  }
-              </style>
-            </head>
-            <body>
-              <h1>Cascading Style Sheet</h1>
-            </body>
-          </html>    
-               
-    => External CSS
-
-          -Create  a seperated file called style.css
-          
-          -Link that style.css to your HTML using the below link
+-Link that style.css to your HTML using the below link
               <link rel="stylesheet" href="style.css">
 
-  **CSS Selector**
+**CSS Selector**
   
-      -Element Selector
+-Element Selector
       
-      -Class Selector
+-Class Selector
       
-      -Id Selector
+-Id Selector
       
-      -Universal Selector
+-Universal Selector
       
-      -Attribute Selector
+-Attribute Selector
       
-      -Descendant Selector
+-Descendant Selector
       
-      -Child Selector
+-Child Selector
       
-      -Adjacent Selector
+-Adjacent Selector
       
-      -Pseudo-Classes
+-Pseudo-Classes
       
-      -Pseudo-Element
+-Pseudo-Element
 
-   **CSS Box Modal**
-   
-      - It is essentially a box that wraps around every HTML elements. It consists of Margins, Borders, Boxes, Padding, Content.
+**CSS Box Modal**
+   - It is essentially a box that wraps around every HTML elements. It consists of Margins, Borders, Boxes, Padding, Content.
 
-  **Display Property**
+**Display Property**
     
-      =>Inline
+=>Inline
       
-      =>Inline-block
+=>Inline-block
       
-      =>Block
+=>Block
       
-      =>None
+=>None
       
     
