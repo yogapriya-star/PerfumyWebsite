@@ -11,11 +11,14 @@ CSS - 3 Types they are
 **Internal**
 -Using the style tag inside the HTML page
                 
-** External**
+**External**
 -Create  a seperated file called style.css
 
 -Link that style.css to your HTML using the below link
-              <link rel="stylesheet" href="style.css">
+
+```bash
+ <link rel="stylesheet" href="style.css">
+```
 
 **CSS Selector**
   
